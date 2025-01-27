@@ -7,7 +7,7 @@ JavaScript Enthusiastic | Angular | VueJs | D3 | Technical Writer @Medium ✍️
 praason/praason is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-✪ Software Developer with 𝟲+ 𝗬𝗲𝗮𝗿𝘀 of industry experience in designing and developing web applications using 𝗔𝗻𝗴𝘂𝗹𝗮𝗿,𝗩𝘂𝗲𝗷𝘀, 𝗥𝗲𝗮𝗰𝘁, 𝗡𝗼𝗱𝗲𝗝𝗦. 
+✪ Software Developer with **10**+ 𝗬𝗲𝗮𝗿𝘀 of industry experience in designing and developing web applications using 𝗔𝗻𝗴𝘂𝗹𝗮𝗿,𝗩𝘂𝗲𝗷𝘀, 𝗥𝗲𝗮𝗰𝘁, 𝗡𝗼𝗱𝗲𝗝𝗦, **Spring Boot**. 
 
 ✪ Have experience in 𝗙𝗶𝗻𝗮𝗻𝗰𝗲, 𝗛𝗲𝗮𝗹𝘁𝗵𝗰𝗮𝗿𝗲, 𝗲-𝗰𝗼𝗺𝗺𝗲𝗿𝗰𝗲,𝗧𝗲𝗹𝗲𝗰𝗼𝗺𝗺𝘂𝗻𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀 domains.
 
